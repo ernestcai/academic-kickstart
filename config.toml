@@ -213,7 +213,10 @@ defaultContentLanguageInSubdir = false
   #   google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
-
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:caijx@shanghaitech.edu.cn"
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
