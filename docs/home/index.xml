@@ -18,33 +18,16 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.jianxiong-cai.net/home/about/</guid>
-      <description>Biography Hi, I&amp;rsquo;m currently an third-year undergraduate student at ShanghaiTech University. During these years, I had several opportunities to join in a number of fascinating projects in the field of Computer Science, especially in Robotics. Hope you would enjoy viewing them same as I was working on them. Feel free to contact me with any question.</description>
+      <description>Biography Hi, I&amp;rsquo;m an third-year undergraduate student at ShanghaiTech University. Currently I am working at ShanghaiTech Automation and Robotics Lab (STAR Lab), under the supervision of Prof. Sören Schwertfeger. My primarily research interest focuses on SLAM and auto-navigation (including Computer Vision, Lidar, etc).
+During these years, I had several opportunities to join in a number of fascinating projects in the field of Computer Science, especially in Robotics. Hope you would enjoy viewing them same as when I was working on them.</description>
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>https://www.jianxiong-cai.net/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      <title>Projects</title>
+      <link>https://www.jianxiong-cai.net/home/projects/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jianxiong-cai.net/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>https://www.jianxiong-cai.net/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://www.jianxiong-cai.net/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.jianxiong-cai.net/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.jianxiong-cai.net/home/talks/</guid>
+      <guid>https://www.jianxiong-cai.net/home/projects/</guid>
       <description></description>
     </item>
     
@@ -58,22 +41,12 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://www.jianxiong-cai.net/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.jianxiong-cai.net/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
+      <title>Teaching Assistant</title>
       <link>https://www.jianxiong-cai.net/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.jianxiong-cai.net/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description>I am teaching assistant for following courses:   SI100B: Introduction to Information Science and Technology, Spring 2017   SI100C: Introduction to Computer Science, FALL 2017   CS110: Computer Architecture, Spring 2018</description>
     </item>
     
     <item>
