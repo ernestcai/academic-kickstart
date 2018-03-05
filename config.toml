@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.jianxiong-cai.net/"
+baseurl = "https://ernestcai.github.io/"
 
 # Title of your site
 title = "Jianxiong Cai | Profile"
@@ -247,9 +247,14 @@ defaultContentLanguageInSubdir = false
 #   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+  name = "Download CV"
+  url = "/files/resume_jianxiong_cai.pdf"
+  weight = 2
+
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 3
 
 [[menu.main]]
   name = "Projects"
