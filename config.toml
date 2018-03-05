@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "ShanghaiTech STAR Lab", url = "https://robotics.shanghaitech.edu.cn/people/caijx" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "caijx.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "caijx@shanghaitech.edu.cn"
   address = "Building 10 Room 1011, ShanghaiTech University, Shanghai, 201210, China"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"

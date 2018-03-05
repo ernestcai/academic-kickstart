@@ -1,10 +1,10 @@
 +++
 title = "ABB-STAR Joint Project"
-date = 2018-03-05T23:26:23+08:00
+date = 2018-03-06T02:35:19+08:00
 draft = false
 
 # Tags: can be used for filtering projects.
-tags = ["SLAM", "navigation", "Manipulator"]
+tags = ["research-project", "SLAM", "Navigation", "Manipulator"]
 
 # Project summary to display on homepage.
 summary = "A complete system with auto-navigation, SLAM and arm manipulation."
